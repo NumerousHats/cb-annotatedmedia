@@ -4,7 +4,7 @@
     "title": "cb-oralhistory — the &quot;annotated media&quot; version Data",
     "description": "Metadata and data derived from cb-oralhistory — the &quot;annotated media&quot; version. CB-Oralhistory is a mix of CollectionBuilder-CSV and Oral History as Data (OHD), with the option to inlude time-coded descriptive metadata.",
     "keywords":  ["oral histories","digital collections"],
-    "homepage": "/",
+    "homepage": "https://numeroushats.github.io/cb-oralhistory/",
     "contributors": [
         {
             "title": "Center for Digital Inquiry and Learning (CDIL)",
