@@ -1,0 +1,29 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+                "poetry": 5,
+                "writing practice": 5,
+                "computers and writing": 5,
+                "ipads": 3,
+                "notebooks": 2,
+                "flarf": 1
+            }
+        },
+        {
+            "field": "interviewer",
+            "terms": { 
+                "becker, devin": 5
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "video/mp4": 3,
+                "audio/mp3": 2
+            }
+        }
+        
+    ]
+}

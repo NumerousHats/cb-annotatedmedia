@@ -1,0 +1,94 @@
+{
+    "title": {
+        "media": {
+          "url": "https://ctrl-shift.org/images/gluck.jpg",
+          "caption": null,
+          "credit": "cb-oralhistory — the \"annotated media\" version"
+        },
+        "text": {
+          "headline": "cb-oralhistory — the \"annotated media\" version Timeline",
+          "text": "CB-Oralhistory is a mix of CollectionBuilder-CSV and Oral History as Data (OHD), with the option to inlude time-coded descriptive metadata."
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://ctrl-shift.org/images/armantrout.jpg",
+          "caption": "Rae Armantrout Interview on Writing Practices",
+          "link": "/items/armantrout.html"
+        },
+        "start_date": { 
+          
+          "month": "03",
+          "day": "27",
+          "year": "2014"
+        },
+        "text": {
+          "headline": "Rae Armantrout Interview on Writing Practices",
+          "text": "Interview with Rae Armantrout in San Diego, CA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)"
+        }
+      },{
+        "media": {
+          "url": "https://ctrl-shift.org/images/gluck.jpg",
+          "caption": "Louise Glück Interview – descriptions only",
+          "link": "/items/gluck-tp.html"
+        },
+        "start_date": { 
+          
+          "month": "05",
+          "day": "15",
+          "year": "2014"
+        },
+        "text": {
+          "headline": "Louise Glück Interview – descriptions only",
+          "text": "Interview with Louise Glück in Cambridge, MA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)"
+        }
+      },{
+        "media": {
+          "url": "https://ctrl-shift.org/images/gluck.jpg",
+          "caption": "Louise Glück Interview – descriptions and transcript",
+          "link": "/items/gluck.html"
+        },
+        "start_date": { 
+          
+          "month": "05",
+          "day": "15",
+          "year": "2014"
+        },
+        "text": {
+          "headline": "Louise Glück Interview – descriptions and transcript",
+          "text": "Interview with Louise Glück in Cambridge, MA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)"
+        }
+      },{
+        "media": {
+          "url": "https://www.youtube.com/watch?v=tgji2thf1og",
+          "caption": "K. Silem Mohammad Interview on Writing Practices",
+          "link": "/items/mohammad.html"
+        },
+        "start_date": { 
+          
+          "month": "06",
+          "day": "14",
+          "year": "2014"
+        },
+        "text": {
+          "headline": "K. Silem Mohammad Interview on Writing Practices",
+          "text": "Interview with K. Silem Mohammad in Ashland, OR. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)"
+        }
+      },{
+        "media": {
+          "url": "https://ctrl-shift.org/images/wrigley/jpg/wrigley017.jpg",
+          "caption": "Robert Wrigley Interview on Writing Practices",
+          "link": "/items/wrigley.html"
+        },
+        "start_date": { 
+          
+          "year": "2013"
+        },
+        "text": {
+          "headline": "Robert Wrigley Interview on Writing Practices",
+          "text": "Interview with Robert Wrigley in Moscow, ID. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)"
+        }
+      }
+    ]
+}

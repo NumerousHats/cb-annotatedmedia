@@ -1,0 +1,8 @@
+{ "subjects": [
+    { "subject" : "poetry", "count" : 5, "link" : "/browse.html#poetry" },
+    { "subject" : "writing practice", "count" : 5, "link" : "/browse.html#writing%20practice" },
+    { "subject" : "computers and writing", "count" : 5, "link" : "/browse.html#computers%20and%20writing" },
+    { "subject" : "ipads", "count" : 3, "link" : "/browse.html#ipads" },
+    { "subject" : "notebooks", "count" : 2, "link" : "/browse.html#notebooks" },
+    { "subject" : "flarf", "count" : 1, "link" : "/browse.html#flarf" }
+]}

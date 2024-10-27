@@ -1,0 +1,25 @@
+
+{
+    "facets": [{
+            "field": "tags",
+            "terms": { 
+                "revision": 290,
+                "highlight": 285,
+                "mss": 196,
+                "career": 179,
+                "prompt": 168,
+                "paper": 142,
+                "change": 93,
+                "flarf": 84,
+                "future": 78,
+                "early": 66,
+                "correspondence": 59,
+                "yaleyounger": 59,
+                "between": 54,
+                "files": 48,
+                "teaching": 11,
+                "printdig": 5
+            }
+        },
+    ]
+}

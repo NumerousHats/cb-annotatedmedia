@@ -1,0 +1,21 @@
+{ 
+    "title": "cb-oralhistory — the "annotated media" version",
+    "url": "/",
+    "image": "https://ctrl-shift.org/images/gluck.jpg", 
+    "description": "CB-Oralhistory is a mix of CollectionBuilder-CSV and Oral History as Data (OHD), with the option to inlude time-coded descriptive metadata.",
+    "publisher": { 
+        "name": "Center for Digital Inquiry and Learning (CDIL)", 
+        "url": "https://cdil.lib.uidaho.edu/", 
+        "logo": "https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png" 
+    },
+    "date_start": "2013",
+    "date_end": "2014",
+    "objects": {
+        "video/mp4": "3",
+        "audio/mp3": "2"
+        
+    },
+    "data": "/assets/data/datapackage.json",
+    "last_build_date": "2024-10-27"
+}
+

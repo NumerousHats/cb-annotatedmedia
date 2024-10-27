@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository" 
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
+                                http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+    <Identify>
+        <oai:repositoryName>cb-oralhistory — the &quot;annotated media&quot; version</oai:repositoryName>
+        <oai:baseURL>http://gateway.institution.org/oai//oai.xml</oai:baseURL>
+        <oai:protocolVersion>2.0</oai:protocolVersion>
+        <oai:adminEmail>collectionbuilder.team@gmail.com</oai:adminEmail>
+        <oai:earliestDatestamp>2024-10-27</oai:earliestDatestamp>
+        <oai:deletedRecord>no</oai:deletedRecord>
+        <oai:granularity>YYYY-MM-DD</oai:granularity>
+    </Identify>
+    <ListMetadataFormats>
+        <oai:metadataFormat>
+            <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+            <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+            <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+        </oai:metadataFormat>
+    </ListMetadataFormats>
+    <ListRecords metadataPrefix="oai_dc">
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/armantrout</oai:identifier> 
+                <oai:datestamp>2024-10-27</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Rae Armantrout Interview on Writing Practices</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>2014-03-27</dc:date><dc:description>Interview with Rae Armantrout in San Diego, CA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)</dc:description>
+                    <dc:subject>poetry;writing practice;ipads;computers and writing;notebooks</dc:subject>
+                    <dc:type>image;movingimage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
+                    <dc:identifier>armantrout</dc:identifier>
+                    <dc:identifier>/items/armantrout.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/gluck-tp</oai:identifier> 
+                <oai:datestamp>2024-10-27</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Louise Glück Interview – descriptions only</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>2014-05-15</dc:date><dc:description>Interview with Louise Glück in Cambridge, MA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)</dc:description>
+                    <dc:subject>poetry;writing practice;ipads;computers and writing</dc:subject>
+                    <dc:type>sound</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
+                    <dc:identifier>gluck-tp</dc:identifier>
+                    <dc:identifier>/items/gluck-tp.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/gluck</oai:identifier> 
+                <oai:datestamp>2024-10-27</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Louise Glück Interview – descriptions and transcript</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>2014-05-15</dc:date><dc:description>Interview with Louise Glück in Cambridge, MA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)</dc:description>
+                    <dc:subject>poetry;writing practice;ipads;computers and writing</dc:subject>
+                    <dc:type>sound</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
+                    <dc:identifier>gluck</dc:identifier>
+                    <dc:identifier>/items/gluck.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mohammad</oai:identifier> 
+                <oai:datestamp>2024-10-27</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>K. Silem Mohammad Interview on Writing Practices</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>2014-06-14</dc:date><dc:description>Interview with K. Silem Mohammad in Ashland, OR. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)</dc:description>
+                    <dc:subject>poetry;writing practice;flarf;computers and writing</dc:subject>
+                    <dc:type>image;movingimage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
+                    <dc:identifier>mohammad</dc:identifier>
+                    <dc:identifier>/items/mohammad.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/wrigley</oai:identifier> 
+                <oai:datestamp>2024-10-27</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Robert Wrigley Interview on Writing Practices</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>2013</dc:date><dc:description>Interview with Robert Wrigley in Moscow, ID. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)</dc:description>
+                    <dc:subject>poetry;writing practice;notebooks;computers and writing</dc:subject>
+                    <dc:type>image;movingimage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
+                    <dc:identifier>wrigley</dc:identifier>
+                    <dc:identifier>/items/wrigley.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+    </ListRecords>
+</Repository>

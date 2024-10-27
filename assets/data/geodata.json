@@ -1,0 +1,186 @@
+{
+    "type": "FeatureCollection",
+    "features": [ 
+        
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-117.2374555,32.88250934]
+            },            
+            "properties":{
+                "objectid": "armantrout",
+                
+                "title": "Rae Armantrout Interview on Writing Practices",
+                
+                "interviewer": "Becker, Devin",
+                "date": "2014-03-27",
+                "description": "Interview with Rae Armantrout in San Diego, CA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)",
+                "subject": "poetry;writing practice;ipads;computers and writing;notebooks",
+                "location": "San Diego, CA",
+                "latitude": "32.88250934",
+                "longitude": "-117.2374555",
+                "source": "CTRL+Shift",
+                "identifier": "armantrout",
+                "type": "image;movingimage",
+                "format": "video/mp4",
+                "language": "eng",
+                "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "rights": "This item is protected by copyright and/or related rights. Permission must be obtained for any use or reproduction which is not educational and not-for-profit. Contact the University of Washington Tacoma Library with inquiries regarding use.",
+                "display_template": "annotated-media",
+                "object_location": "https://www.youtube.com/watch?v=BX_bURONf78",
+                "image_small": "https://ctrl-shift.org/images/armantrout.jpg",
+                "image_thumb": "https://ctrl-shift.org/images/armantrout.jpg",
+                
+                "bio": "\nRae Armantrout (born 13 April 1947) is an American poet generally associated with the Language poets. Armantrout was born in Vallejo, California, but grew up in San Diego. She has published ten books of poetry and has also been featured in a number of major anthologies. Armantrout currently teaches at the University of California, San Diego, where she is Professor of Poetry and Poetics",
+                "object_thumb": "https://ctrl-shift.org/images/armantrout.jpg",
+                "object_location": "https://www.youtube.com/watch?v=BX_bURONf78",
+                "reference_url": "/items/armantrout.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-71.10683299,42.3730541]
+            },            
+            "properties":{
+                "objectid": "gluck-tp",
+                
+                "title": "Louise Glück Interview – descriptions only",
+                
+                "interviewer": "Becker, Devin",
+                "date": "2014-05-15",
+                "description": "Interview with Louise Glück in Cambridge, MA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)",
+                "subject": "poetry;writing practice;ipads;computers and writing",
+                "location": "Cambridge, MA",
+                "latitude": "42.3730541",
+                "longitude": "-71.10683299",
+                "source": "CTRL+Shift",
+                "identifier": "gluck",
+                "type": "sound",
+                "format": "audio/mp3",
+                "language": "eng",
+                "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "rights": "This item is protected by copyright and/or related rights. Permission must be obtained for any use or reproduction which is not educational and not-for-profit. Contact the University of Washington Tacoma Library with inquiries regarding use.",
+                "display_template": "annotated-media",
+                "object_location": "https://www.devinbecker.org/mp3/gluck.mp3",
+                "image_small": "https://ctrl-shift.org/images/gluck.jpg",
+                "image_thumb": "https://ctrl-shift.org/images/gluck.jpg",
+                "pdf": "https://ctrl-shift.org/data/txt/gluck.txt",
+                "bio": "Louise Glück (1943-2023) was an American poet. She was appointed Poet Laureate Consultant in Poetry to the Library of Congress in 2003, and won the Nobel Prize in 2020. ",
+                "object_thumb": "https://ctrl-shift.org/images/gluck.jpg",
+                "object_location": "https://www.devinbecker.org/mp3/gluck.mp3",
+                "reference_url": "/items/gluck-tp.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-71.10683299,42.3730541]
+            },            
+            "properties":{
+                "objectid": "gluck",
+                
+                "title": "Louise Glück Interview – descriptions and transcript",
+                
+                "interviewer": "Becker, Devin",
+                "date": "2014-05-15",
+                "description": "Interview with Louise Glück in Cambridge, MA. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)",
+                "subject": "poetry;writing practice;ipads;computers and writing",
+                "location": "Cambridge, MA",
+                "latitude": "42.3730541",
+                "longitude": "-71.10683299",
+                "source": "CTRL+Shift",
+                "identifier": "gluck",
+                "type": "sound",
+                "format": "audio/mp3",
+                "language": "eng",
+                "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "rights": "This item is protected by copyright and/or related rights. Permission must be obtained for any use or reproduction which is not educational and not-for-profit. Contact the University of Washington Tacoma Library with inquiries regarding use.",
+                "display_template": "annotated-media",
+                "object_location": "https://www.devinbecker.org/mp3/gluck.mp3",
+                "image_small": "https://ctrl-shift.org/images/gluck.jpg",
+                "image_thumb": "https://ctrl-shift.org/images/gluck.jpg",
+                "pdf": "https://ctrl-shift.org/data/txt/gluck.txt",
+                "bio": "Louise Glück (1943-2023) was an American poet. She was appointed Poet Laureate Consultant in Poetry to the Library of Congress in 2003, and won the Nobel Prize in 2020. ",
+                "object_thumb": "https://ctrl-shift.org/images/gluck.jpg",
+                "object_location": "https://www.devinbecker.org/mp3/gluck.mp3",
+                "reference_url": "/items/gluck.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-122.6951982,42.18569369721768,]
+            },            
+            "properties":{
+                "objectid": "mohammad",
+                
+                "title": "K. Silem Mohammad Interview on Writing Practices",
+                
+                "interviewer": "Becker, Devin",
+                "date": "2014-06-14",
+                "description": "Interview with K. Silem Mohammad in Ashland, OR. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)",
+                "subject": "poetry;writing practice;flarf;computers and writing",
+                "location": "Ashland, OR",
+                "latitude": "42.18569369721768,",
+                "longitude": "-122.6951982",
+                "source": "CTRL+Shift",
+                "identifier": "mohammad",
+                "type": "image;movingimage",
+                "format": "video/mp4",
+                "language": "eng",
+                "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "rights": "This item is protected by copyright and/or related rights. Permission must be obtained for any use or reproduction which is not educational and not-for-profit. Contact the University of Washington Tacoma Library with inquiries regarding use.",
+                "display_template": "annotated-media",
+                "object_location": "https://www.youtube.com/watch?v=tgji2thf1og",
+                
+                
+                
+                "bio": "K. Silem Mohammad was born in Modesto, California, in 1962. He graduated with a BA from the University of California, Santa Cruz in 1991, and from Stanford University with a PhD in 1998. His work has appeared in numerous journals and anthologies, including Poetry,[2] The Nation,[3] Fence,[4] Postmodern American Poetry: A Norton Anthology, and Against Expression: An Anthology of Conceptual Writing. He edits the literary journals West Wind Review and Abraham Lincoln: A Magazine of Poetry. He is one of the Flarf poets.",
+                
+                "object_location": "https://www.youtube.com/watch?v=tgji2thf1og",
+                "reference_url": "/items/mohammad.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-116.8637698,46.80470201]
+            },            
+            "properties":{
+                "objectid": "wrigley",
+                
+                "title": "Robert Wrigley Interview on Writing Practices",
+                
+                "interviewer": "Becker, Devin",
+                "date": "2013",
+                "description": "Interview with Robert Wrigley in Moscow, ID. Featured in the digital scholarship exhibit CTRL+Shift (ctrl-shift.html)",
+                "subject": "poetry;writing practice;notebooks;computers and writing",
+                "location": "Moscow, ID",
+                "latitude": "46.80470201",
+                "longitude": "-116.8637698",
+                "source": "CTRL+Shift",
+                "identifier": "wrigley",
+                "type": "image;movingimage",
+                "format": "video/mp4",
+                "language": "eng",
+                "rightsstatement": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+                "rights": "This item is protected by copyright and/or related rights. Permission must be obtained for any use or reproduction which is not educational and not-for-profit. Contact the University of Washington Tacoma Library with inquiries regarding use.",
+                "display_template": "annotated-media",
+                "object_location": "https://soundcloud.com/user-944694772/robert-wrigley-ctrl-shift-interview-conducted-by-devin-becker",
+                "image_small": "https://ctrl-shift.org/images/wrigley/jpg/wrigley017.jpg",
+                "image_thumb": "https://ctrl-shift.org/images/wrigley/jpg/wrigley017.jpg",
+                "pdf": "/objects/wrigley.pdf",
+                "bio": "Robert Wrigley’s poems have been published in a number of journals, including Poetry, The Atlantic, Barrow Street, and The New Yorker.[2] In 2003 and 2006 he had poems published in Best American Poetry, and in 2013, his poem “Religion” appeared in The Best of the Best American Poetry: 25th Anniversary Edition, selected by Robert Pinsky. Wrigley is also the recipient of six Pushcart Prizes. Reign of Snakes won the Kingsley Tufts Poetry Award; Lives of the Animals won the 2005 Poets’ Prize. In the Bank of Beautiful Sins won the San Francisco Poetry Center Book Award.",
+                "object_thumb": "https://ctrl-shift.org/images/wrigley/jpg/wrigley017.jpg",
+                "object_location": "https://soundcloud.com/user-944694772/robert-wrigley-ctrl-shift-interview-conducted-by-devin-becker",
+                "reference_url": "/items/wrigley.html"
+            }
+        }
+    ]
+}
