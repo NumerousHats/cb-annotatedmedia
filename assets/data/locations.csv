@@ -1,5 +1,5 @@
 location,count,link
-"cambridge, ma",2,"https://numeroushats.github.io/cb-oralhistory/browse.html#cambridge,%20ma"
-"san diego, ca",1,"https://numeroushats.github.io/cb-oralhistory/browse.html#san%20diego,%20ca"
-"ashland, or",1,"https://numeroushats.github.io/cb-oralhistory/browse.html#ashland,%20or"
-"moscow, id",1,"https://numeroushats.github.io/cb-oralhistory/browse.html#moscow,%20id"
+"cambridge, ma",2,"/browse.html#cambridge,%20ma"
+"san diego, ca",1,"/browse.html#san%20diego,%20ca"
+"ashland, or",1,"/browse.html#ashland,%20or"
+"moscow, id",1,"/browse.html#moscow,%20id"

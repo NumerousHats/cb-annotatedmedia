@@ -1,6 +1,6 @@
 { "locations": [
-    { "location" : "cambridge, ma", "count" : 2, "link" : "https://numeroushats.github.io/cb-oralhistory/browse.html#cambridge,%20ma" },
-    { "location" : "san diego, ca", "count" : 1, "link" : "https://numeroushats.github.io/cb-oralhistory/browse.html#san%20diego,%20ca" },
-    { "location" : "ashland, or", "count" : 1, "link" : "https://numeroushats.github.io/cb-oralhistory/browse.html#ashland,%20or" },
-    { "location" : "moscow, id", "count" : 1, "link" : "https://numeroushats.github.io/cb-oralhistory/browse.html#moscow,%20id" }
+    { "location" : "cambridge, ma", "count" : 2, "link" : "/browse.html#cambridge,%20ma" },
+    { "location" : "san diego, ca", "count" : 1, "link" : "/browse.html#san%20diego,%20ca" },
+    { "location" : "ashland, or", "count" : 1, "link" : "/browse.html#ashland,%20or" },
+    { "location" : "moscow, id", "count" : 1, "link" : "/browse.html#moscow,%20id" }
 ]}

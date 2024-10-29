@@ -1,8 +1,8 @@
 { 
     "title": "cb-oralhistory — the "annotated media" version",
-    "url": "https://numeroushats.github.io/cb-oralhistory/",
+    "url": "/",
     "image": "https://ctrl-shift.org/images/gluck.jpg", 
-    "description": "CB-Oralhistory is a mix of CollectionBuilder-CSV and Oral History as Data (OHD), with the option to inlude time-coded descriptive metadata.",
+    "description": "CB-Oralhistory is a mix of CollectionBuilder-CSV and Oral History as Data (OHD), with the option to include time-coded descriptive metadata.",
     "publisher": { 
         "name": "Center for Digital Inquiry and Learning (CDIL)", 
         "url": "https://cdil.lib.uidaho.edu/", 
@@ -15,7 +15,7 @@
         "audio/mp3": "2"
         
     },
-    "data": "https://numeroushats.github.io/cb-oralhistory/assets/data/datapackage.json",
-    "last_build_date": "2024-10-27"
+    "data": "/assets/data/datapackage.json",
+    "last_build_date": "2024-10-29"
 }
 
